@@ -77,7 +77,7 @@ From the basics of python to complex algorithms
       <ol type="1">
         <li> Loading the the spam, ham email classification data for the case study. </li>
         <li> Applying label encoding for the target classes (spam and ham). </li>
-        <li> Noise removal (email id, url, currency symbol, punctuation etc, Using regex).</li>
+        <li> Noise removal (email id, url, currency symbol, punctuation etc, Using regex). </li>
         <li> Remove case inconsistancy. </li>
       </ol>
     </li>
@@ -121,6 +121,101 @@ From the basics of python to complex algorithms
             <li> Test accuracy: 0.8232017780 </li>
           </ul>
         </li>
+      </ul>
+    </li>
+  </ul>
+
+### Folder Name: FeatureSimilarity
+  <ul type="square">
+    <li> Notebook 1: BasicFeatureSimilarityCNN.ipynb
+      <ul type="disc">
+        <li> Objective: CNN implementation from scratch. Similarity of two images based on a set of features.
+        </li>        
+        <li> Content: 
+          <ol type="1">
+            <li> Reading the mage data. </li>
+            <li> Resize and convert it into grayscale image. </li>
+            <li> Max pooling (dimensionality reduction) </li>
+            <li> Feature matrix identification </li>
+            <li> Matching feature matrix </li>
+            <li> RELU (Rectified Linear Unit) </li>
+            <li> Second layer of max pooling </li>
+            <li> Hidden Layer (Fully-connected layer) </li>
+            <li> Test on a image for evaluation </li>
+          </ol>
+        </li>        
+      </ul>
+    </li>
+  </ul>
+  
+### Folder Name: KerasVGG16
+  <ul type="square">
+    <li> Notebook 1: KerasVGG16_implementation.ipynb
+      <ul type="disc">
+        <li> Objective: Image classification. Cat and dog detection using Keras VGG16 model
+        </li>        
+        <li> Content: 
+          <ol type="1">
+            <li> Reading image data </li>
+            <li> Building the model </li>
+            <li> Training the model on the data </li>
+            <li> Make prediction </li>
+            <li> Model evaluation </li>            
+          </ol>
+        </li>        
+      </ul>
+    </li>
+  </ul>
+
+### Folder Name: ReinforcementLearning
+  <ul type="square">
+    <li> Notebook 1: Qtable_TrainAgent.ipynb
+      <ul type="disc">
+        <li> Objective: Maximizing reward in a particular situation
+        </li>        
+        <li> Content: 
+          <ol type="1">
+            <li> Reinforcement learning implementation (Qtable) </li>            
+          </ol>
+        </li>        
+      </ul>
+    </li>
+  </ul>
+  
+### Folder Name: TextClassification
+  <ul type="square">
+    <li> Notebook 1: SapmOrHam.ipynb
+      <ul type="disc">
+        <li> Objective: Classification of text into different classes using Keras model.
+        </li>        
+        <li> Content: 
+          <ol type="1">
+            <li> Spam or Ham email classification</li>
+            <li> Loading dataset </li>
+            <li> Preprocessing data </li>
+            <li> Building and training classification model </li>
+            <li> Make prediction and evaluate model accuracy </li>            
+          </ol>
+        </li>        
+      </ul>
+    </li>
+  </ul>
+  
+  
+### Folder Name: TextSummerization
+  <ul type="square">
+    <li> Notebook 1: Sumy_LUHNs_approach_implementation_from_scratch.ipynb
+      <ul type="disc">
+        <li> Objective: Generate automatic summary from text data using Sumy Luhn's approach.
+        </li>        
+        <li> Content: 
+          <ol type="1">
+            <li> Stopwords removal , Tokenizing and occurance count. </li>
+            <li> Occurance based sorting. </li>
+            <li> Calculating significance of the sentences. </li>
+            <li> Generate the summary wiht the most significant sentences. </li>            
+          </ol>
+        </li>        
       </ul>
     </li>
   </ul>
