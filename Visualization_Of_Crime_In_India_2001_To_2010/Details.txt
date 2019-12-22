@@ -1,0 +1,5 @@
+## Some insights from the Indian crime data
+
+- Dataset Name: Crime in India
+- Source of dataset: Kaggle
+- Dataset contains: Information about Crimes happened in India from 2001
