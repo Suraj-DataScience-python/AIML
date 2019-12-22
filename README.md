@@ -7,7 +7,7 @@ From the basics of python to complex algorithms
   <ul type="disc">
     <li> Objective: Learning the basic concepts and syntax of python to begin with.</li>
     <li> Content:
-      <ol type="1">
+      <ol type="i">
         <li> Displaying output (print statement), </li>
         <li> Different datatypes (int, list, string, tuples, dictionary etc.) and their variables. </li>
         <li> Different operators - Logical (+, -, *, /, % etc.) and Biwise (~, &, |, ^, >> etc.). </li>
@@ -17,7 +17,7 @@ From the basics of python to complex algorithms
         <li> Taking input from users (input() statement, eval() statement etc.). </li>
         <li> Conditional statement (if..else, if..elif..else etc.). </li>
         <li> Iterative statements or loops (while loop, for loop etc.). </li>
-        <li> Break and Contnue Statement. </li>
+        <li> Break and Continue Statement. </li>
         <li> Array in python. </li>
         <li> Using numpy arrays and different operations on numpy array. </li> 
         <li> Functions (defining function, calling function etc.). </li>
@@ -41,7 +41,7 @@ From the basics of python to complex algorithms
   <ul type="disc">
     <li> Objective: Learning to handle and manipulae data using pandas package. </li>
     <li> Content: 
-      <ol type="1">
+      <ol type="i">
         <li> Datastructures (Series, DataFrame and Panel). </li>
         <li> DataFrame basics (Creating, Accessing rows and columns, conditional selection, data summary etc.). </li>
         <li> Saving dataframe as csv or excel file. </li>
@@ -55,7 +55,7 @@ From the basics of python to complex algorithms
   <ul type="disc">
     <li> Objective: Learning the basic concepts of machine learning. </li>
     <li> Content: 
-      <ol type="1">
+      <ol type="i">
         <li> Linear Regression (Simple and Multiple). </li>
         <li> Saving the Model (Using pickle, joblib etc.). </li>
         <li> Gradient decent. </li>
@@ -74,7 +74,7 @@ From the basics of python to complex algorithms
   <ul type="disc">
     <li> Objective: Preprocess the raw text data to make it clean or usable for further NLP based analysis (in the form of case study). </li>
     <li> Content: 
-      <ol type="1">
+      <ol type="i">
         <li> Loading the the spam, ham email classification data for the case study. </li>
         <li> Applying label encoding for the target classes (spam and ham). </li>
         <li> Noise removal (email id, url, currency symbol, punctuation etc, Using regex). </li>
@@ -87,7 +87,7 @@ From the basics of python to complex algorithms
   <ul type="disc">
     <li> Objective: Implementation of NER Spacy. </li>
     <li> Content: 
-      <ol type="1">
+      <ol type="i">
         <li> Named entity classification (Oraganization, Location etc.). </li>
         <li> Tokenization. </li>
         <li> POS Tagging. </li>
@@ -105,7 +105,7 @@ From the basics of python to complex algorithms
         </li>
         <li> Question Source: American Express and Analytics Vidhya presents “AmExpert 2019 – Machine Learning Hackathon". </li>
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Reading the data into dataframe from csv files. </li>
             <li> Merging dataframes. </li>
             <li> Feature Extraction. </li>
@@ -132,7 +132,7 @@ From the basics of python to complex algorithms
         <li> Objective: CNN implementation from scratch. Similarity of two images based on a set of features.
         </li>        
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Reading the mage data. </li>
             <li> Resize and convert it into grayscale image. </li>
             <li> Max pooling (dimensionality reduction) </li>
@@ -155,7 +155,7 @@ From the basics of python to complex algorithms
         <li> Objective: Image classification. Cat and dog detection using Keras VGG16 model
         </li>        
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Reading image data </li>
             <li> Building the model </li>
             <li> Training the model on the data </li>
@@ -174,7 +174,7 @@ From the basics of python to complex algorithms
         <li> Objective: Maximizing reward in a particular situation
         </li>        
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Reinforcement learning implementation (Qtable) </li>            
           </ol>
         </li>        
@@ -189,7 +189,7 @@ From the basics of python to complex algorithms
         <li> Objective: Classification of text into different classes using Keras model.
         </li>        
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Spam or Ham email classification</li>
             <li> Loading dataset </li>
             <li> Preprocessing data </li>
@@ -209,7 +209,7 @@ From the basics of python to complex algorithms
         <li> Objective: Generate automatic summary from text data using Sumy Luhn's approach.
         </li>        
         <li> Content: 
-          <ol type="1">
+          <ol type="i">
             <li> Stopwords removal , Tokenizing and occurance count. </li>
             <li> Occurance based sorting. </li>
             <li> Calculating significance of the sentences. </li>
