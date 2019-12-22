@@ -219,3 +219,21 @@ From the basics of python to complex algorithms
       </ul>
     </li>
   </ul>
+  
+### Folder Name: Visualization_Of_Crime_In_India_2001_To_2010
+  <ul type="square">
+    <li> Notebook 1: Insights_From_Indian_Crime_Data.ipynb
+      <ul type="disc">
+        <li> Objective: Understand the data and get some valuable insights by creating different visualizations.
+        </li>        
+        <li> Content: 
+          <ol type="i">
+            <li> Reading the data </li>
+            <li> Getting summary of the data (count of rows, columns, datatypes, missing values etc.) </li>
+            <li> Creating charts (Pie chart, Line chart etc.) </li>
+            <li> Getting the insights </li>            
+          </ol>
+        </li>        
+      </ul>
+    </li>
+  </ul>
