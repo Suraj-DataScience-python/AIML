@@ -96,7 +96,21 @@ From the basics of python to complex algorithms
       </ol>
     </li>
   </ul>
-             
+  
+### Noebook Name: Some_Python_Concepts_And_OOPS.ipynb
+  <ul type="disc">
+    <li> Objective: Some basic concepts and OOP in python </li>
+    <li> Content: 
+      <ol type="i">
+        <li> Decorators </li>
+        <li> Variable number of arguments: *args and *kwargs </li>
+        <li> Generator </li>
+        <li> Anonymous Function: lambda </li>
+        <li> OOPS </li>
+      </ol>
+    </li>
+  </ul>
+
 ### Folder Name: AmExpert 2019 – Machine Learning Hackathon
   <ul type="square">
     <li> Notebook 1: Classification_V1.ipynb
